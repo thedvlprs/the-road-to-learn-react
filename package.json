@@ -35,6 +35,7 @@
     ]
   },
   "devDependencies": {
-    "minimist": "^1.2.3"
+    "minimist": "^1.2.3",
+    "react-test-renderer": "^16.13.1"
   }
 }
